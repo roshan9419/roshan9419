@@ -1,6 +1,8 @@
 ### Hey, I'm Roshan Kumar 👋
 
-I'm a Computer Science Student. Eager to learn new things.
+I'm Currently in 2nd year of my Computer Science degree 😊. 
+💻 Worked on many different technologies.  
+📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.
 
 ![alt-text](hadder.gif)
 
