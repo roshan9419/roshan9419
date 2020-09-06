@@ -12,8 +12,12 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
+<code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code>
 <code><img height="30" src="https://img.icons8.com/officel/16/000000/selenium-test-automation.png"/></code>  
 
 ### Interests
@@ -34,7 +38,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
  CodeForces     https://codeforces.com/profile/roshank9419  
  LeetCode       https://leetcode.com/roshan9419/  
  
-### YouTube
+### YouTube <img height="25" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
  https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
 
 <details>
@@ -56,4 +60,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 </a>
 <a href="https://www.instagram.com/roshan9419/">
   <img align="left" alt="Roshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="roshank9419@gmail.com">
+  <img align="left" alt="Roshan's Email" width="25px" src="https://img.icons8.com/windows/48/000000/gmail.png" />
 </a>
