@@ -38,7 +38,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
  CodeForces     https://codeforces.com/profile/roshank9419  
  LeetCode       https://leetcode.com/roshan9419/  
  
-### YouTube <img height="25" src="https://img.icons8.com/color/48/000000/youtube-play.png"/>
+### YouTube
  https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
 
 <details>
@@ -49,16 +49,16 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 </details>
 
 ### Connect With Me
-<a href="https://twitter.com/roshan9419">
-  <img align="left" alt="Roshan Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/roshan9419/">
+<a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/">
   <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/roshank9419">
+<a href="https://twitter.com/RoshanK70963497/">
+  <img align="left" alt="Roshan Kumar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://t.me/roshank9419/">
   <img align="left" alt="Roshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/roshan9419/">
+<a href="https://www.instagram.com/roshank9419/">
   <img align="left" alt="Roshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="roshank9419@gmail.com">
