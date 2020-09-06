@@ -4,7 +4,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
-<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" />  
+<img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 
 ### Languages and Tools  
 
