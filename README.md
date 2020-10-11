@@ -40,6 +40,8 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
  
 ### YouTube
  https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&theme=merko)](https://github.com/roshan9419)
 
 <details>
 <summary>📈 My GitHub Stats</summary>
