@@ -66,3 +66,6 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 <a href="roshank9419@gmail.com">
   <img align="left" alt="Roshan's Email" width="25px" src="https://img.icons8.com/windows/48/000000/gmail.png" />
 </a>
+<a href="https://dev.to/roshan9419">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roshan Kumar's DEV Profile" height="30" width="30">
+</a>
