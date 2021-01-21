@@ -33,6 +33,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 
 ### Awards
 ✨ 2nd Rank at COFAS International 2018  
+✨ 3rd Rank at Online CodeEd Hackathon 2020  
 
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
