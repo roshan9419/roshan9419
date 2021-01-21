@@ -11,10 +11,13 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/python.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
+<code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/>
+ <code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code>
