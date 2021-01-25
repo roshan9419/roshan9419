@@ -55,21 +55,21 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 </details>
 
 ### Connect With Me
-<a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/">
+<a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/" target="_blank">
   <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
-<a href="https://twitter.com/RoshanK70963497/">
+<a href="https://twitter.com/RoshanK70963497/" target="_blank">
   <img align="left" alt="Roshan Kumar | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
 </a>
-<a href="https://t.me/roshank9419/">
+<a href="https://t.me/roshank9419/" target="_blank">
   <img align="left" alt="Roshan's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" />
 </a>
-<a href="https://www.instagram.com/roshank9419/">
+<a href="https://www.instagram.com/roshank9419/" target="_blank">
   <img align="left" alt="Roshan's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
 </a>
-<a href="roshank9419@gmail.com">
+<a href="roshank9419@gmail.com" target="_blank">
   <img align="left" alt="Roshan's Email" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
 </a>
-<a href="https://dev.to/roshan9419">
+<a href="https://dev.to/roshan9419" target="_blank">
   <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roshan Kumar's DEV Profile" width="25px">
 </a>
