@@ -18,6 +18,7 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/android-os.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/firebase.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/flutter.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/oracle-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
 <code><img height="30" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/></code>
