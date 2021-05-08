@@ -25,12 +25,12 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 <code><img height="30" src="https://img.icons8.com/officel/16/000000/selenium-test-automation.png"/></code>  
 
 ### Interests
+👍 Android Development  
 👍 AI / ML  
 👍 Software Development  
 👍 Game Development  
 👍 Data Analysis  
-👍 Web Development  
-👍 Android Development  
+👍 Web Development    
 
 ### Awards
 ✨ 2nd Rank at COFAS International 2018  
