@@ -36,6 +36,10 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 ✨ 2nd Rank at COFAS International 2018  
 ✨ 3rd Rank at Online CodeEd Hackathon 2020  
 
+### **Highlights**
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=roshan9419&theme=dracula&column=7&margin-w=15&margin-h=15)
+
 ### CP Profiles
  GeeksForGeeks  https://auth.geeksforgeeks.org/user/roshank9419/profile  
  Hackerrank     https://www.hackerrank.com/roshank9419  
