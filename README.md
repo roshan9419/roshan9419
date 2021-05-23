@@ -59,6 +59,9 @@ I'm Currently in 2nd year of my Computer Science degree 😊.
 
 </details>
 
+
+ ![Visitor Count](https://profile-counter.glitch.me/{roshan9419}/count.svg)
+
 ### Connect With Me
 <a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/" target="_blank">
   <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
