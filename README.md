@@ -1,5 +1,7 @@
 ## Hey, I'm Roshan Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge)
+
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
@@ -59,25 +61,16 @@ I'm a Computer Science Student 😊.
 
 </details>
 
-
- ![Visitor Count](https://profile-counter.glitch.me/{roshan9419}/count.svg)
-
 ### Connect With Me
 <a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/" target="_blank">
-  <img align="left" alt="Roshan's LinkdeIN" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <img align="left" alt="Roshan's LinkdeIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://twitter.com/RoshanK70963497/" target="_blank">
-  <img align="left" alt="Roshan Kumar | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />
+  <img align="left" alt="Roshan's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 <a href="https://t.me/roshank9419/" target="_blank">
-  <img align="left" alt="Roshan's Telegram" width="22px" src="https://img.icons8.com/color/48/000000/telegram-app--v4.png" />
-</a>
-<a href="https://www.instagram.com/roshank9419/" target="_blank">
-  <img align="left" alt="Roshan's Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
+  <img align="left" alt="Roshan's Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="roshank9419@gmail.com" target="_blank">
-  <img align="left" alt="Roshan's Email" width="25px" src="https://img.icons8.com/fluent/48/000000/gmail--v2.png" />
-</a>
-<a href="https://dev.to/roshan9419" target="_blank">
-  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Roshan Kumar's DEV Profile" width="25px">
+  <img align="left" alt="Roshan's Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
