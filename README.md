@@ -54,12 +54,9 @@ I'm a Computer Science Student 😊.
  
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&theme=merko)](https://github.com/roshan9419)
 
-<details>
-<summary>📈 My GitHub Stats</summary>
+📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&theme=gotham" alt="roshan9419" />
-
-</details>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roshan9419)  
 
