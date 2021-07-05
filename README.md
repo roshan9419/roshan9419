@@ -1,7 +1,8 @@
 ## Hey, I'm Roshan Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge)
-
+<a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
+    
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
 📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
@@ -52,13 +53,19 @@ I'm a Computer Science Student 😊.
 ### YouTube
  https://www.youtube.com/channel/UCEH77m_42j2-HHyfhprAMKA  
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&theme=merko)](https://github.com/roshan9419)
 
-📈 My GitHub Stats
+## 📊 Github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&theme=gotham" alt="roshan9419" />
+<!-- <details>  -->
+<!--   <summary>💻 GitHub Profile Stats</summary> -->
+  <br/>
+    <a><img alt="Roshan's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=roshan9419&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a><img alt="Roshan's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=roshan9419&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <br/>
+<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
+<!-- </details> -->
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=roshan9419)  
+<a><img alt="Roshan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=roshan9419&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>  
 
 ### Connect With Me
 <a href="https://www.linkedin.com/in/roshan-kumar-a18b76179/" target="_blank">
