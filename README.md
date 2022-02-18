@@ -5,7 +5,7 @@
     
 I'm a Computer Science Student 😊.  
 💻 Worked on many different technologies.  
-📜 Created many useful Python Scripts for Students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
+📜 Created many useful Scripts for students like File Downloader and Handler, Deep Search, Automation Scripts, etc.  
 
 <img alt="GIF" src="https://github.com/roshan9419/roshan9419/blob/master/hadder.gif?raw=true" width="500"/>  
 
