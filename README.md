@@ -1,6 +1,6 @@
 ## Hey, I'm Roshan Kumar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge)
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=roshan9419.visitor-badge) -->
 <a href="https://github.com/roshan9419"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/roshan9419?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow" height="20px"/></a>  
     
 I'm a Computer Science Student 😊.  
