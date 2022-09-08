@@ -16,6 +16,7 @@ I'm a Computer Science Student 😊.
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/kotlin.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/></code>
+<code><img height="30" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
